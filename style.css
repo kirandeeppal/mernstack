@@ -1,0 +1,28 @@
+body {
+    background-color: skyblue;
+}
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+}
+
+#redhead {
+    color: red;
+}
+p {
+    color: white;
+}
+
+p span {
+    color: black;
+    font-size: 24px;
+}
+ul li a {
+    color: yellow;
+    background-color: purple;
+    text-decoration: none;
+}
+
